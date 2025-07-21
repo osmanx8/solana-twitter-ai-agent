@@ -1,17 +1,23 @@
-# Twitter Bot
+# 🤖 Twitter Auto-Reply AI Bot
 
-This bot is an AI assistant that automatically responds to mentions and tweet replies on Twitter.
+An intelligent, open-source Twitter bot that automatically responds to mentions and tweet replies using OpenAI's GPT model. Perfect for creators, businesses, or community accounts looking to automate engagement with smart, human-like responses..
 ## Contact
 
-[Telegram](https://t.me/stevensprg)
+[Telegram](https://t.me/ShadowRusii)
 
-## Features
+## ✨ Key Features
 
-- Automatic reply to mentions
-- Automatic reply to comments on tweets
-- Creating smart replies with OpenAI GPT-3.5
-- Rate limiting and daily tweet limit control
-- Detailed logging system
+🔁 Auto-replies to mentions on Twitter
+
+💬 Auto-responses to replies on your tweets
+
+🧠 AI-generated responses powered by OpenAI GPT-3.5 / GPT-4
+
+📉 Built-in rate limiter and daily tweet cap
+
+📜 Detailed logging system for transparency and debugging
+
+🔒 .env-based API key management for secure deployment
 
 ## Installation
 
@@ -60,12 +66,14 @@ You can choose between two modes:
 └── requirements.txt    # Gerekli paketler
 ```
 
-## Security
+##🔐 Security & Compliance
+🔒 API keys stored securely via .env
 
-- API keys are securely stored in `.env` file
-- API usage is controlled with rate limiting
-- Excessive usage is prevented with daily tweet limit
+⚙️ Rate-limiting prevents spam or overuse
 
-## License
+📊 Daily tweet limits protect your account from abuse or bans
 
-MIT 
+## 📄 License
+MIT – free to use, modify, and distribute.
+
+
